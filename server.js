@@ -36,4 +36,4 @@ io.on('connection', socket => {
 
 
 
-server.listen(process.evn. PORT || 3000);
+server.listen(process.evn.PORT || 3000);
